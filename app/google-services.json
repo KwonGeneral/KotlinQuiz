@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063540222106",
+    "project_id": "kotlinvoice-5d21f",
+    "storage_bucket": "kotlinvoice-5d21f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063540222106:android:625f513e1a0c2375855723",
+        "android_client_info": {
+          "package_name": "com.kwon.kotlinquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063540222106-rje9banfbnkc79t3j4vl23auda0bi37b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEvB3WfmucjAyHeEB9hWb-woddSY7NeGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063540222106-rje9banfbnkc79t3j4vl23auda0bi37b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
